@@ -13,7 +13,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
 - Axios
 - API
 
-## ![](screenshots/Bands-in-Town-API/bandsintown.PNG)
+## ![](screenshots/Bands-in-Town-API/bandsintown.jpg)
 ![](screenshots/Bands-in-Town-API/concert-this.PNG)
 
 

@@ -13,7 +13,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
 - Axios
 - API
 
-## ![](screenshots/Bands-in-Town-API/OMDB-API)
+## ![](screenshots/Bands-in-Town-API/bandsintown.PNG)
 
  When an artist is searched it shows the venue and date.
 ![](screenshots/Bands-in-Town-API/concert-this.PNG)

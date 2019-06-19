@@ -14,6 +14,8 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
 - API
 
 ## ![](screenshots/Bands-in-Town-API/bandsintown.jpg)
+
+ When an artist is searched it shows the venue and date.
 ![](screenshots/Bands-in-Town-API/concert-this.PNG)
 
 

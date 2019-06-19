@@ -15,15 +15,20 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
 
 ## ![](screenshots/Bands-in-Town-API/bandsintown.PNG)
 
- ### When an artist is searched it shows the venue and date.
+ ### When an artist is searched it shows the venue and date: 
 ![](screenshots/Bands-in-Town-API/concert-this.PNG)
 
 ## ![](screenshots/OMDB/OMDB-API.png)
+### When a movie is searched it displays the title, year, imdb rating, Rotten Tomatoes score, country, language , plot and actors: 
 ![](screenshots/OMDB/movie-this.PNG)
+### If no movie is searched then it shows the information of 'Mr. Nobody' :
 ![](screenshots/OMDB/mrnobody.PNG)
 
+
 ## ![](screenshots/Spotify/spotify.PNG)
+### When a song is search it grabs the information ( Name, artist and Album) from spotify and displays them in the console :
 ![](screenshots/Spotify/songsearch.PNG)
+### If no songs is provided it shows the result of the song "The Sign " by Ace of Base
 ![](screenshots/Spotify/nosearchsong.PNG)
 
 

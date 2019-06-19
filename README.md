@@ -19,7 +19,13 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI will be a comm
 ![](screenshots/Bands-in-Town-API/concert-this.PNG)
 
 ## ![](screenshots/OMDB/OMDB-API.png)
-(screenshots/OMDB/concert-this.PNG)
+![](screenshots/OMDB/concert-this.PNG)
+
+## ![](screenshots/Spotify/spotify.PNG)
+![](screenshots/Spotify/songsearch.PNG)
+![](screenshots/Spotify/nosearchsong.PNG)
+
+
 
 
 
